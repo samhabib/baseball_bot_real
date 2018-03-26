@@ -3,7 +3,6 @@
 //Last modified: Sat, Mar 24, 2018 01:51:30 AM
 //Codeset: 1252
 requires maya "2017";
-
 currentUnit -l centimeter -a degree -t film;
 fileInfo "application" "maya";
 fileInfo "product" "Maya 2017";
